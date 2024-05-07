@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Model A",
+      "description": "A powerful AI model for NLP tasks.",
+      "provider": "AI Corp",
+      "example_code": "const result = runModelA(input);",
+      "use_cases": ["Text Analysis", "Sentiment Analysis"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Model B",
+      "description": "An AI model for image recognition.",
+      "provider": "ImageWorks",
+      "example_code": "const result = runModelB(image);",
+      "use_cases": ["Image Classification", "Object Detection"],
+      "featured": false
+    }
+  ]
+  
